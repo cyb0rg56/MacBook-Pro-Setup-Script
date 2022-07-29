@@ -9,8 +9,10 @@ brew install --cask lunar
 brew install --cask microsoft-office
 brew install --cask orion
 brew install --cask parsec
+brew install --cask peakhour
 brew install --cask rectangle
 brew install --cask slack
+brew install --cask stats
 brew install --cask sublime-text
 brew install --cask the-unarchiver
 brew install --cask visual-studio-code
