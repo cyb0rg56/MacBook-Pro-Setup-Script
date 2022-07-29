@@ -16,3 +16,5 @@ brew install --cask stats
 brew install --cask sublime-text
 brew install --cask the-unarchiver
 brew install --cask visual-studio-code
+
+brew autoupdate start --upgrade
