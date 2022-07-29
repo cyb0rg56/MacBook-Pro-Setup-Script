@@ -2,6 +2,7 @@
 
 brew install --cask 1password
 brew install --cask adguard
+brew install --cask bartender
 brew install --cask citrix-workspace
 brew install --cask coconutbattery
 brew install --cask google-chrome
