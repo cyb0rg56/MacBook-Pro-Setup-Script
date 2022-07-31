@@ -1,7 +1,9 @@
 # MacBook-Pro-Setup-Script
 
 brew install --cask 1password
+
 brew install --cask adguard
+
 brew install --cask bartender
 brew install --cask brackets
 brew install --cask citrix-workspace
