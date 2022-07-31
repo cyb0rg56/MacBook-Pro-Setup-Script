@@ -6,8 +6,8 @@ brew install --cask bartender
 brew install --cask citrix-workspace
 brew install --cask coconutbattery
 brew install --cask google-chrome
+brew install --cask hiddenbar
 brew install --cask lunar
-brew install --cask microsoft-office
 brew install --cask orion
 brew install --cask parsec
 brew install --cask peakhour
