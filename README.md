@@ -13,6 +13,7 @@ brew install --cask orion
 brew install --cask parsec
 brew install --cask peakhour
 brew install --cask rectangle
+brew install --cask shottr
 brew install --cask slack
 brew install --cask stats
 brew install --cask sublime-text
