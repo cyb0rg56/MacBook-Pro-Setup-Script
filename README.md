@@ -1,5 +1,7 @@
 # MacBook-Pro-Setup-Script
 
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
 brew install --cask 1password
 
 brew install --cask adguard
